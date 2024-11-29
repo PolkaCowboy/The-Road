@@ -2,7 +2,7 @@
 Helper mod for my RDR2 Walk Across The Continent challenge. 
 
 Does two things
-1. Provides a tool to generate random checkpoints to navigate to
+1. Provides a tool to generate random checkpoints to navigate towards
 2. Provides a tool to make judgment calls if loot is accessable from a road or not.
 
 # Installation
