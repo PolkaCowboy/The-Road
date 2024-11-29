@@ -8,7 +8,7 @@ Does two things
 # Installation
 Make sure you have [ScriptHookRDR2DotNet-V2](https://github.com/Halen84/ScriptHookRDR2DotNet-V2) installed.
 
-Unzip the contents of [the release](https://github.com/PolkaCowboy/The-Road/releases/tag/1.0.0) into your RedDeadRedemption2 folder. Resulting structure should be `../RedDeadRedemption2/scripts/TheRoad.dll`
+Unzip the contents of [the release](https://github.com/PolkaCowboy/The-Road/releases/) into your RedDeadRedemption2 folder. Resulting structure should be `../RedDeadRedemption2/scripts/TheRoad.dll`
 
 # Use
 Press `F10` to toggle detection for if you are on the road.
