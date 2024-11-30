@@ -1,5 +1,5 @@
 # Polka-Survival
-Helper mod for my RDR2 Walk Across The Continent challenge. 
+Helper mod for my [RDR2 Walk Across The Continent challenge](https://youtu.be/jvPfWKgUuY4). 
 
 Does two things
 1. Provides a tool to generate random checkpoints to navigate towards
